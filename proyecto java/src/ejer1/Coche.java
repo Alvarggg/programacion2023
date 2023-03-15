@@ -3,7 +3,7 @@ package ejer1;
 public class Coche {
 	 // Variables de instancia
     private String marca;
-    private String matricula;
+    private String matricula;  
     private Motor motor;
 	private Volante volante;
 	
